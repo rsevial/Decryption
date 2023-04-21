@@ -1,5 +1,5 @@
 # Programmed by: Rebekah Joy E. Sevial
-# Problem 2: Descryption
+# Problem 2: Decryption
 
 # Ask user to input string
 user_str = input("Enter a string to decrypt: ")
