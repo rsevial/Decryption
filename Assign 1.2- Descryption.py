@@ -2,6 +2,7 @@
 # Problem 2: Descryption
 
 # Ask user to input string
+user_str = input("Enter a string to decrypt: ")
 # Adding empty list into variable text
 # For loop that will replace the special characters into vowels
     # If asterisk is inputted, replace it into an a
