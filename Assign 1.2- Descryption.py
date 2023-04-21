@@ -6,6 +6,7 @@ user_str = input("Enter a string to decrypt: ")
 # Adding empty list into variable text
 text = []
 # For loop that will replace the special characters into vowels
+for signs in user_str:
     # If asterisk is inputted, replace it into an a
     # If ampersand is inputted, replace it into an e
     # If hashtag is inputted, replace it into an i
