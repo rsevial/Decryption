@@ -8,10 +8,20 @@ text = []
 # For loop that will replace the special characters into vowels
 for signs in user_str:
     # If asterisk is inputted, replace it into an a
+    if signs == "*":
+        signs = "a"
     # If ampersand is inputted, replace it into an e
+    elif signs == "&":
+        signs = "e"
     # If hashtag is inputted, replace it into an i
+    elif signs == "#":
+        signs = "i"
     # If plus sign is inputted, replace it into o
+    elif signs == "+":
+        signs = "o"
     # If exclamation point  is inputted, replace it into u
+    elif signs == "!":
+        signs = "u"
     # All the text will be append
 # Creating an empty string
 # If the vowel is in the text, assign the string to the vowel
