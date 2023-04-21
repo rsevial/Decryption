@@ -30,5 +30,6 @@ string = ""
 for signs in text:
     string = string + signs
 # Import module
+import fontstyle
 # Format string
 # Display the string
