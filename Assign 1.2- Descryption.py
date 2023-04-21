@@ -23,6 +23,7 @@ for signs in user_str:
     elif signs == "!":
         signs = "u"
     # All the text will be append
+    text.append(signs)
 # Creating an empty string
 # If the vowel is in the text, assign the string to the vowel
 # Import module
