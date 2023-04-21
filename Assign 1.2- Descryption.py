@@ -32,4 +32,5 @@ for signs in text:
 # Import module
 import fontstyle
 # Format string
+string_color = fontstyle.apply(string, 'BLUE/WHITE_BG')
 # Display the string
