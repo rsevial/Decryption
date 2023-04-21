@@ -15,5 +15,3 @@ The program will accept a string as encrypted text and then will decrypt it usin
 ### Submmitted by:
 
 Rebekah Joy E. Sevial
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
