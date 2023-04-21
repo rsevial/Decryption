@@ -25,6 +25,7 @@ for signs in user_str:
     # All the text will be append
     text.append(signs)
 # Creating an empty string
+string = ""
 # If the vowel is in the text, assign the string to the vowel
 # Import module
 # Format string
