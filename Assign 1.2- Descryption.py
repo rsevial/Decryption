@@ -34,3 +34,4 @@ import fontstyle
 # Format string
 string_color = fontstyle.apply(string, 'BLUE/WHITE_BG')
 # Display the string
+print("The Decrypted Text:", string_color)
